@@ -13,7 +13,7 @@ GUILD_ID = int(input(Fore.CYAN + "Veuillez entrer l'ID du serveur : "))
 KEEP_CHANNEL_ID = int(input(Fore.CYAN + "Veuillez entrer l'ID du salon à garder : "))
 NEW_ROLE_NAME = input(Fore.CYAN + "Veuillez entrer le nom du nouveau rôle : ")
 intents = discord.Intents.default()
-intents.members = True  # Nécessaire pour accéder aux membres
+intents.members = True
 bot = commands.Bot(command_prefix="+", intents=intents)
 
 @bot.event
