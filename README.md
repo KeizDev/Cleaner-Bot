@@ -1,8 +1,10 @@
-# Server Maintenance Tool
+# CleanerBot Tool
 
 **Version**: 2.0
 
 Ce tool est conçu pour mettre un serveur en pause pendant que vous terminez la sauvegarde ou changez simplement le propriétaire. Il automatise des tâches essentielles pour préparer votre serveur pour la maintenance de manière efficace.
+
+![CleanerBot Tool](https://image.noelshack.com/fichiers/2024/42/3/1729104202-capture-d-cran-2024-10-16-204228.png)  <!-- Remplacez image.png par le nom de votre image ou l'URL -->
 
 ## Fonctionnalités
 
@@ -30,4 +32,3 @@ Ce projet est sous la licence de **Megaxod**.
 ---
 
 Pour toute autre question, veuillez contacter le mainteneur.
-
