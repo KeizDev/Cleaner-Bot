@@ -2,10 +2,11 @@
 color 0A
 
 echo.
-echo ================================
-echo         Outil Keiz
-echo      Installation des bibliotheques
-echo ================================
+echo        ================================
+echo                  CleanerBot
+echo         Installation des bibliotheques
+echo                    By Keiz
+echo        ================================
 echo.
 
 echo Verification de l'installation de Python...
@@ -56,9 +57,9 @@ if %errorlevel% neq 0 (
 )
 
 echo.
-echo ================================
-echo      Installation terminee !
-echo ================================
+echo         ================================
+echo              Installation terminee !
+echo         ================================
 echo Toutes les bibliotheques necessaires ont ete installees ou mises a jour avec succes.
 echo Vous pouvez maintenant utiliser l'outil Keiz.
 echo.
