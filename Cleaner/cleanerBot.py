@@ -31,8 +31,6 @@ def mainscreen():
                                                   ░░░░░░░░░░░   ░░░░░░     ░░░░░                    
 
 Github : https://github.com/KeizDev
-Discord Username : vihj
-Discord Server : https://discord.gg/megaxod
 Mail : keiz.contact@proton.me
 ''')
 
